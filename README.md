@@ -8,4 +8,4 @@ This repository contains the Python codes to find the weather data for at least 
 * Cloudiness(%) vs. Latitude: No correlation.
 * Wind Speed (mph) vs. Latitude: No correlation.
 
-NOTE: The current weather data is based on one specific day.  To have a better representation, we probably need to pull data for a range of dates / months / years.
+NOTE: The current weather data is based on one specific day.  To have a better representation, we probably need to pull data from a range of dates / months / years.
