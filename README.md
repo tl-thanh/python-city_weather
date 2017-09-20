@@ -1,4 +1,4 @@
-## CITY WEATHER
+# CITY WEATHER
 
 This repository contains the Python codes to find the weather data for at least 500 unique cities, to determine whether there are similarities for cities as they get closer to the equator.  These cities are generated randomly.  The data is then visually presented on a scatter plot.
 
@@ -9,3 +9,32 @@ This repository contains the Python codes to find the weather data for at least 
 * Wind Speed (mph) vs. Latitude: No correlation.
 
 NOTE: The current weather data is based on one specific day.  To have a better representation, we probably need to pull data from a range of dates / months / years.
+
+## Python Codes:
+
+*API calls*
+
+*Openweathermapy.core*
+
+*Pandas*
+
+*Numpy*
+
+*Random*
+
+*OS*
+
+*Time*
+
+*Requests*
+
+*CityPy*
+
+*Matplotlib*
+
+*Seaborn*
+
+*Scatter Plots*
+
+*Dataframe*
+
